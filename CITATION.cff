@@ -8,8 +8,8 @@ authors:
 version: v0.3
 date-released: 2026-06-16
 license: CC-BY-4.0
-url: https://github.com/<your-github-username>/agent-security-threat-model
-repository-code: https://github.com/<your-github-username>/agent-security-threat-model
+url: https://github.com/larrypeseckis/agent-security-threat-model
+repository-code: https://github.com/larrypeseckis/agent-security-threat-model
 abstract: >-
   A practical threat model for AI agents that use tools, browsers, files,
   terminals, APIs, and cloud resources. Organized around trust boundaries and
