@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Agent Security Threat Model
+message: If you use or adapt this work, please cite it.
+type: dataset
+authors:
+  - family-names: Peseckis
+    given-names: Larry
+version: v0.3
+date-released: 2026-06-16
+license: CC-BY-4.0
+url: https://github.com/<your-github-username>/agent-security-threat-model
+repository-code: https://github.com/<your-github-username>/agent-security-threat-model
+abstract: >-
+  A practical threat model for AI agents that use tools, browsers, files,
+  terminals, APIs, and cloud resources. Organized around trust boundaries and
+  mapped to the OWASP Top 10 for Agentic Applications and the OWASP Top 10 for
+  LLM Applications, with a threat-to-boundary-to-control matrix and a
+  pre-deployment review checklist.
+keywords:
+  - threat-model
+  - ai-security
+  - agent-security
+  - prompt-injection
+  - tool-use
+  - least-privilege
+  - owasp-asi
